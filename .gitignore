@@ -1,0 +1,7 @@
+.env
+venv/
+temp/
+checkpoint.json
+mal_token.json
+saved_collections.json
+__pycache__/
